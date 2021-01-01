@@ -1,0 +1,5 @@
+ro.product.brand=Infinix
+ro.product.name=TSSI
+ro.product.device=FULL-64
+ro.build.product=tssi_64_infinix
+ro.treble.enabled=true
