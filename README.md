@@ -1,0 +1,2 @@
+# Infinix_X682B_TWRP_TREE
+Infinix Hot 10 Device Tree for TWRP
